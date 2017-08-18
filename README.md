@@ -1,0 +1,2 @@
+Introduction
+This is my first ios app whose function is to calculate discount of an item. e.g. In my app, there are 3 discount can be choosen(10%, 20%, 30%). Say an item's price is $200, and you choose 10%, then you can see discount is $25 and final price is %225.
